@@ -1,0 +1,106 @@
+body{
+  height: 800px;
+  font-family: Helvetica;
+  background-color: rgb(244, 248, 249);
+}
+div{
+  background-color: rgb(255, 255, 255);
+  border: rgb(225, 232, 237) 2px solid;
+  border-radius: 5px;
+  text-align: left 20px;
+}
+h1{
+  color: rgb(0,0,0);
+  vertical-align: middle;
+}
+span{
+  color: rgb(104,109,129);
+  font-size: 18px;
+  text-align: up;
+  vertical-align: middle;
+  position: absolute;
+  top: 70px;
+}
+p{
+  color: rgb(0,0,0);
+  margin: 20px;
+  position: relative;
+  right:90px;
+  top:25px;
+}
+h2{
+  color: rgb(101,116,127);
+  margin-left: 20px;
+  font-size: 20px;
+  position: relative;
+  top:25px;
+}
+h3{
+  color: rgb(101,116,127);
+  margin-left: 20px;
+  font-size: 20px;
+  position: relative;
+  top:20px;
+
+}
+a{
+  color: rgb(85, 172, 238);
+  border-bottom: 1px solid;
+  border-radius: 5px;
+  text-align: center;
+  height: 35px;
+  width: 120px;
+  border-style: solid;
+  border-width: 1px;
+  margin: 30px;
+  float: right;
+  font-size: 20px;
+
+}
+.foto1{
+  padding: 10px;
+  margin: 10px;
+  float: left;
+  position: relative;
+
+}
+.foto2{
+  padding: 5px;
+  float:left;
+  vertical-align: middle;
+  border-width: medium;
+  position: relative;
+  top: 20px;
+}
+.foto3{
+  float:left;
+  vertical-align: text-top;
+  position: absolute;
+  top: 32px;
+  left: 210px;
+}
+.foto7{
+  vertical-align: middle;
+  height: 10px;
+  height: 30px;
+}
+.foto4{
+  margin-left: 20px;
+  vertical-align: middle;
+
+}
+.foto5{
+  margin-left: 8px;
+  vertical-align: middle;
+  border-bottom: 15px;
+  color: rgb(101, 116, 127);
+
+
+}
+.foto6{
+padding: 15px;
+  margin-left: 1px;
+  vertical-align: middle;
+  border-bottom: 15px;
+
+}
